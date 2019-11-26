@@ -7,4 +7,5 @@ img {
 
 .choices {
   display: inline-flex;
+  justify-content: center; 
 }

@@ -117,8 +117,6 @@ function loop() {
       loop();  
   }
 
-
-  
   game();
 
 
