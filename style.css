@@ -1,0 +1,10 @@
+img {
+  display: inline-flex; 
+  border: 1px solid;
+  height: 250px;
+  width: 250px; 
+}
+
+.choices {
+  display: inline-flex;
+}
